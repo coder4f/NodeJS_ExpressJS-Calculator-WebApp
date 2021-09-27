@@ -1,0 +1,16 @@
+{
+  "name": "nodejs_expressjs-calculator",
+  "version": "1.0.0",
+  "description": "Calculator WebApp using Express framework and body-parser module.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Ramadan Bozaliev",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1"
+  }
+}
